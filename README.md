@@ -1,6 +1,6 @@
 # Alien Invasion Game
 
-![Alien Invasion](Screenshot 2023-10-30 235023.png)
+![Alien Invasion](Screenshot.png)
 
 The Alien Invasion Game is a Python project inspired by "Python Crash Course: A Hands-On, Project-Based Introduction to Programming" by Eric Matthes. It is a simple 2D arcade-style game built using the Pygame library. Your mission is to control a spaceship and fend off waves of invading alien spaceships.
 
@@ -50,7 +50,7 @@ If you would like to contribute to the Alien Invasion Game project, please follo
 ## Credits
 
 - Alien Invasion Game inspired by "Python Crash Course" by Eric Matthes.
-- Game development and Pygame library: Your Name
+- Game development and Pygame library
 
 ## License
 
@@ -60,6 +60,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For questions or support, feel free to contact us:
 
-- Your Email: christophermashilo@gmail.com
+- Email: christophermashilo@gmail.com
 - Project Repository: https://github.com/1Mashilo/Alien-Invasion
 
